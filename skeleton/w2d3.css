@@ -1,0 +1,28 @@
+h1 {
+    font-size: 38px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+.ingredients-list {
+  list-style-type: square;
+}
+
+ol {
+  list-style-type: lower-alpha;
+}
+
+header > img {
+  width: 100px;
+}
+
+ul > li > a {
+  text-decoration: none;
+  color: inherit;
+}
+
+body {
+  background-color: hotpink
+}
